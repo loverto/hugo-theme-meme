@@ -722,7 +722,13 @@ uglyURLs = false
     # 说明：gtag 或 analytics
 
     trackingID = ""
+    ######################################
+    # 自行添加的百度统计
 
+    # 说明：仅在生产环境（production）下渲染
+
+    enableBaiduAnalytics = false
+    baiduAnalyticsID = ""
 
     ######################################
     # Google Site Verification
